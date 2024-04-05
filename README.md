@@ -39,6 +39,7 @@
 
 
 #Datasets Used in the Project
+
 Our application focuses on predicting brain tumour locations using publicly accessible MRI datasets from The Cancer Imaging Archive (TCIA). 
 These datasets contain manually annotated FLAIR abnormality segmentation masks from 110 patients in The Cancer Genome Atlas (TCGA) lower-grade glioma collection.
 Each image, sized at 256x256 pixels, merges MRI slices from three modalities into RGB format. Furthermore, we leverage an additional dataset for skin lesion classification,
