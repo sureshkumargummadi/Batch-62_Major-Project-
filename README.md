@@ -44,10 +44,10 @@ These datasets contain manually annotated FLAIR abnormality segmentation masks f
 Each image, sized at 256x256 pixels, merges MRI slices from three modalities into RGB format. Furthermore, we leverage an additional dataset for skin lesion classification,
 combining data from HAM10000 (2019) and MSLDv2.0, encompassing 14 different types of skin lesions.
 
-Link For Brain Tumour Dataset
+Link For Brain Tumour Dataset :
 kaggle datasets download -d mateuszbuda/lgg-mri-segmentation
 
-Link For Skin Lesion Dataset
+Link For Skin Lesion Dataset :
 kaggle datasets download -d ahmedxc4/skin-ds
 
 
